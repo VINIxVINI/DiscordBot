@@ -23,7 +23,8 @@ starterEncouragements = [
   "You deserve to be happy!",
   "You can take on any challenge!",
   "You are stronger than you think!",
-  "Nothing can bring you down!"
+  "Nothing can bring you down!",
+  "Life is tough but so are you!"
 ]
 
 auth = "\n - Mr. Inspire"
