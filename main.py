@@ -25,6 +25,7 @@ starterEncouragements = [
   "You are stronger than you think!",
   "Nothing can bring you down!",
   "Life is tough but so are you!"
+
 ]
 
 auth = "\n - Mr. Inspire"
@@ -32,7 +33,8 @@ myQuotes = [
   "Death is inevitable"+auth,
   "There is no such thing as bad experience"+auth,
   "Learn from your experience, instead of regretting it"+auth,
-  "Strive for more, but don't forget to be grateful for what you have"+auth
+  "Strive for more, but don't forget to be grateful for what you have"+auth,
+  "The noblest art is that of making others happy"+auth
 ]
 
 ### Random quote generator ###
